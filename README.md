@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samarth Gowda</h1>
-<h3 align="center">💻 BCA Student | Python Developer | Web Enthusiast</h3>
+<h3 align="center">💻 BCA Graduate | Python Developer | Web Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **BCA Student** passionate about coding and creating impactful projects  
+- 🎓 **BCA Graduate** passionate about coding and creating impactful projects  
 - 💻 Skilled in **Python, HTML, CSS, Bootstrap, and MySQL**  
 - 🌱 Currently learning **Flask & Django** for backend development  
 - ⚡ Loves problem-solving and designing professional UI for projects  
