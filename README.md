@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samarth Gowda</h1>
-<h3 align="center">💻 BCA Graduate | Python Developer | Web Enthusiast</h3>
+<h3 align="center">💻 BCA Graduate | Python Developer | Data Science</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 **BCA Graduate** passionate about coding and creating impactful projects  
-- 💻 Skilled in **Python, HTML, CSS, Bootstrap, and MySQL**  
+- 💻 Skilled in **Python, HTML, CSS, Bootstrap, MySQL and Data Science**  
 - 🌱 Currently learning **Flask & Django** for backend development  
 - ⚡ Loves problem-solving and designing professional UI for projects  
 - 📌 Check out my recent project: [Student Result Management System](https://github.com/sourcebysam/student-result-management-system)
