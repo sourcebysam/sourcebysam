@@ -1,24 +1,72 @@
 <h1 align="center">Hi 👋, I'm Samarth Gowda</h1>
-<h3 align="center">💻 BCA Graduate | Python Developer | Data Science</h3>
+<h3 align="center">Software & Data Engineer | Python | FastAPI | ML Systems</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **BCA Graduate** passionate about coding and creating impactful projects  
-- 💻 Skilled in **Python, HTML, CSS, Bootstrap, MySQL and Data Science**  
-- 🌱 Currently learning **Flask & Django** for backend development  
-- ⚡ Loves problem-solving and designing professional UI for projects  
-- 📌 Check out my recent project: [Student Result Management System](https://github.com/sourcebysam/student-result-management-system)
+- 🎓 **BCA Graduate (2025)** with strong foundation in software engineering & data systems  
+- 💻 Experienced in **Python, FastAPI, Flask, SQL, ETL pipelines, Docker, and ML engineering**  
+- 🔧 Skilled in building **REST APIs, backend services, and ML-driven applications**  
+- 📊 Passionate about **data pipelines, system design, and scalable deployments**  
+- 🌱 Currently enhancing skills in **production ML systems & backend architecture**
+
+📌 **Featured Project:**  
+👉 [Student Result Management System](https://github.com/sourcebysam/student-result-management-system)
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages**
+- Python, SQL
+
+**Backend & APIs**
+- FastAPI, Flask, REST APIs, Streamlit
+
+**Machine Learning**
+- TensorFlow, Scikit-learn, Model Deployment, Forecasting
+
+**Data Engineering**
+- ETL Pipelines, Data Modelling, Schema Design, SQL Optimization
+
+**Databases**
+- MySQL, PostgreSQL, SQL Server
+
+**Tools & Platforms**
+- Git, Docker, Linux, CI/CD (Basic)
+
+---
+
+### 📌 Key Projects
+
+#### 🛒 AI Grocery Sales Predictor
+- Built ML forecasting system using **Prophet & Scikit-learn** for weekly sales prediction  
+- Designed **ETL pipelines** for automated data ingestion & preprocessing  
+- Developed **FastAPI REST endpoints** to serve predictions  
+- Containerized application using **Docker** for scalable deployment  
+
+#### 🎓 Student Result Management System (Full Stack)
+- Developed secure backend using **Flask** with authentication & role-based access  
+- Designed optimized **SQL schema**, improving query performance by ~30%  
+- Implemented validations, CRUD operations, and admin controls  
+- Built user interface using **Streamlit** for report generation & result uploads  
+
+---
+
+### 💼 Experience
+
+**Data Science & GenAI Intern — Innomatics Research Labs**  
+*Sep 2025 – Present*
+- Developed ML models & automation scripts for analytics workflows  
+- Built **RAG-based chatbot backend** using FastAPI, embeddings & vector search  
+- Designed SQL-driven ETL processes & dashboards  
+- Improved API latency and data reliability through optimization  
+
+**Cybersecurity & IoT Intern — MAHE-ISAC**  
+*Jan 2025 – Feb 2025*
+- Performed network analysis using Wireshark  
+- Automated IoT anomaly detection workflows  
+- Improved detection performance by ~18%  
 
 ---
 
@@ -29,10 +77,10 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-gowda-472359335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-gowda-472359335)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourcebysam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: samarthgowda757@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgowda757@gmail.com)
 
 ---
 
-⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
+⭐ *“First make it work, then make it right, then make it fast.”*
